@@ -1,4 +1,4 @@
-//Leetcode - 21
+//Leetcode 21 - Merge Two Sorted Lists
 //https://leetcode.com/problems/merge-two-sorted-lists/
 
 class Solution {
